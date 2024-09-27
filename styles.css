@@ -39,7 +39,6 @@ img{
     }
 }
 
-/* Media query for mobile phones */
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
@@ -61,7 +60,6 @@ img{
     }
 }
 
-/* Media query for very small devices */
 @media (max-width: 576px) {
     .item {
         width: 80px;
